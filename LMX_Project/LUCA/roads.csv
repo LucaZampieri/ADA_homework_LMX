@@ -1,0 +1,985 @@
+	road_name
+0	Rue Ferdinand-Hodler
+1	Rue des Charmilles 20
+2	:ERROR STATUS: NOT_FOUND
+3	Route de Vandœuvres 8
+4	Route de Chêne 74
+5	Route de Thonon
+6	Unnamed Road
+7	Quai du Mont-Blanc 31
+8	Route de Chêne 110
+9	Rue de Moillebeau 35-33
+10	Rue de la Terrassière 42-48
+11	Route d'Annecy
+12	Boulevard Carl-Vogt 101-93
+13	Route du Camp
+14	Route de Veyrier 57-55
+15	Route d'Hermance 150
+16	Rue des Deux-Ponts 19-9
+17	Rue de la Croix-Rouge
+18	Route des Jeunes 16
+19	Unnamed Road
+20	Route du Bois-des-Frères 46
+21	Route de Saint-Julien 111-109
+22	Route de Chancy
+23	Chemin Barde 6
+24	Rue de la Servette 32-36
+25	Quai Charles-Page
+26	Cours de Rive 15-11
+27	Rue de Berne 50-54
+28	Chemin de l'Etang
+29	E25
+30	Rue du Fossé-Vert 3
+31	Rue des Bossons 40
+32	Unnamed Road
+33	Avenue de Châtelaine 62-68
+34	Rue de la Poterie 5-3
+35	Route du Bois-de-Bay 57-51
+36	E62
+37	Rue de la Prulay
+38	:ERROR STATUS: NOT_FOUND
+39	Rue du Grand-Bureau 37-21
+40	Route de Chancy
+41	Rue de la Servette 28
+42	Avenue Théodore-Vernes 13-17
+43	Boulevard Georges-Favon 45-37
+44	Chemin Alfred-Bétems
+45	Place des Cinq-Continents
+46	Rue Bovy-Lysberg 1
+47	Chemin du Petit-Bel-Air 2
+48	Route de Vernier
+49	E62
+50	Rue Tronchin 2-10
+51	Av. de la Gare-des- Eaux-Vives 19
+52	Rue des Savoises 7-3
+53	Saint-Jean - Charmilles
+54	Boulevard du Pont-d'Arve
+55	Route de Vernier 137
+56	Avenue Louis-Aubert
+57	Avenue Pictet-de-Rochemont 9
+58	Quai Wilson
+59	Route du Pont Butin
+60	Avenue du Mail 2
+61	Ch. Jacques-Philibert-de-Sauvage 24
+62	A1a
+63	Chemin du Petit-Bel-Air 16-14
+64	:ERROR STATUS: NOT_FOUND
+65	Rue Hoffmann 4-10
+66	Unnamed Road
+67	Unnamed Road
+68	E62
+69	Rue De-Grenus
+70	Route de Vernier
+71	Rue François-Le-Fort
+72	Rue Adrien-Lachenal 5
+73	Route du Nant-d'Avril
+74	Rue Robert-Estienne 8
+75	Route du Pont Butin
+76	Avenue de Mategnin
+77	Quai Gustave-Ador
+78	Pont de Sous-Terre
+79	Route de Vernier
+80	Avenue du Mail 22
+81	Rue François-Dussaud 19-15
+82	E62
+83	Route de Saint-Julien 152-162
+84	Route de Jussy
+85	Avenue du Curé Baud
+86	Rue Prévost-Martin 61-41
+87	Chemin de la Chevillarde 9
+88	Unnamed Road
+89	Rue du Pont-Neuf 12
+90	Place des Eaux-Vives 12
+91	Rue Pédro-Meylan 11-5
+92	Rue Caroline 27-11
+93	Chemin de la Tour-de-Champel 2-10
+94	Promenade de l'Europe
+95	Tunnel de Vernier
+96	Quai du Mont-Blanc 3
+97	Grottes - Saint-Gervais
+98	Unnamed Road
+99	Avenue de Châtelaine 95-91
+100	Rue de Carouge 73-69
+101	Rue de la Fontenette
+102	Avenue du Grand-Salève 4
+103	Route de Bardonnex
+104	Chemin des Tuileries 35-33
+105	Route de Suisse 11
+106	Quai du Général-Guisan
+107	Centre-Plainpalais-Acacias
+108	Place de la Gare
+109	Rue de la Croix-du-Levant
+110	Rue Liotard 2-8
+111	Avenue du Mail 30
+112	Voie Centrale
+113	Boulevard de Saint-Georges 11-7
+114	Route d'Hermance 249-247
+115	Route de Lausanne 340
+116	Rue Ferdinand-Hodler
+117	Unnamed Road
+118	Rue des Bains 36-50
+119	Route de Chancy
+120	Route du Grand-Lancy 92-96
+121	Route de Meyrin
+122	Rue Antoine-Carteret 25-23
+123	Avenue Eugène Lance 39
+124	Unnamed Road
+125	Chemin des Mouilles 10-14
+126	Route de Lausanne 288-290
+127	Route de Saint-Julien 125-123
+128	Chemin Emile Paquin 7-1
+129	Rue Ancienne 4-30
+130	Route de Saint-Julien 85
+131	Rue des Bugnons
+132	Route du Val-d'Arve
+133	Unnamed Road
+134	Avenue Louis-Casaï 18
+135	Chemin Louis-Dunant
+136	Quai Gustave-Ador 2
+137	Rue de Genève 25-21
+138	Rue de Montbrillant 94
+139	Boulevard du Pont-d'Arve 49
+140	Avenue de la Paix
+141	Centre-Plainpalais-Acacias
+142	Route du Pont Butin 91
+143	Rue de la Servette 85-77
+144	Rue de Frémis 5-1
+145	Avenue Tronchet 4-8
+146	Geneva
+147	Avenue du Mail 22
+148	Route de Ferney
+149	Rue Dancet 41-23
+150	Rue de Frémis
+151	Unnamed Road
+152	Chemin de l'Etang 54
+153	Rue Hoffmann 4-10
+154	E62
+155	Chemin de la Chevillarde
+156	Avenue Edouard-Baud
+157	Chemin de Moillebin
+158	Lancy
+159	Avenue Krieg
+160	Rue Henri-Christiné 7-1
+161	Route du Nant-d'Avril 58-68
+162	Route de Presinge
+163	Avenue Henri-Dunant
+164	Avenue du Bouchet 29-21
+165	Rue Eugène-Marziano 23
+166	Quai du Mont-Blanc 25-21
+167	Rue de la Ferme 2
+168	E25
+169	Avenue Soret 3
+170	E62
+171	Route de Saint-Julien 77-75
+172	Rue des Bossons 21
+173	Rue des Sources 2-8
+174	Rue de Zurich 19
+175	Route de Thonon 160
+176	Rue Guillaume-de-Marcossay 21-7
+177	Rue du Vieux-Moulin 10-14
+178	Quai de la Poste
+179	Avenue de la Grenade 6-14
+180	Route de Malagnou 66
+181	Unnamed Road
+182	Route de Chêne 63-53
+183	Place Jean-Marteau 3
+184	Route du Bout-du-Monde
+185	Route du Grand-Lancy
+186	Avenue de la Praille 41-33
+187	Chemin du Vieux-Bureau 30
+188	Chemin des Bûchilles 20
+189	Route de Sous-Moulin
+190	Rue Camille-Martin 6-10
+191	Rue de Neuchâtel 15-1
+192	Quai du Mont-Blanc 19
+193	Vernier
+194	Avenue de France 15
+195	Chemin des Sports
+196	Pont du Mont-Blanc
+197	Route de Meyrin 2-8
+198	Unnamed Road
+199	Avenue Théodore-Flournoy 6-10
+200	Rue Rothschild 20-26
+201	Chemin du Pré-du-Couvent 5
+202	Route de Choulex 2-30
+203	Rue des Grand-Prë 22
+204	Chemin des Anémones 2-8
+205	A1a
+206	Route de Pré-Bois
+207	Rue Eugène-Dupont
+208	Rue de Genève 6-50
+209	Square du Mont-Blanc
+210	Rue des Glacis-de-Rive 4-10
+211	Avenue de Châtelaine 70
+212	Rue de Graman 72-82
+213	Rampe Quidort
+214	Route de Meyrin
+215	Quai du Mont-Blanc
+216	Route de Suisse 138-150
+217	Avenue Petit-Senn 52-60
+218	Boulevard Carl-Vogt 2-18
+219	Avenue Wendt 16-22
+220	Route des Acacias 28-22
+221	Route d'Hermance
+222	Route des Acacias 5-9
+223	Rue de Chantepoulet 8-12
+224	Rue de Contamines 35-27
+225	Rue de Villereuse 2
+226	Chemin des Rayes
+227	Rue Gilbert
+228	E62
+229	Rue Prévost-Martin 61-41
+230	Route de Vernier 137
+231	Rue du Grand-Pré 61-51
+232	Route de Malagnou
+233	Route des Franchises 10-12
+234	Route de Florissant 63
+235	Rue Emile-Yung 4-10
+236	Rue du Trabli 64
+237	Unnamed Road
+238	Rue Lect
+239	Avenue du Devin-du-Village 7-1
+240	Rue des Alpes
+241	Saint-Jean - Charmilles
+242	Chemin Frank-Thomas 90-104
+243	Boulevard de la Cluse 41-35
+244	Route de Meyrin
+245	Route des Fayards
+246	Pâquis-Nations
+247	Boulevard des Promenades 25
+248	Chemin de la Gradelle 70
+249	Quai du Général-Guisan 10-12
+250	Rue Merle-d'Aubigné 22-26
+251	Route de Drize 3-1
+252	Satigny
+253	Rue du Mont-Blanc 7
+254	Rue Ferdinand-Hodler
+255	Quai du Mont-Blanc
+256	Avenue de Thônex 35
+257	Rue des Alpes
+258	Rue de la Madeleine
+259	Chemin Gérard-De-Ternier 18
+260	E62
+261	Tunnel de Vernier
+262	Rue Le-Corbusier 19
+263	Route du Bois-des-Frères 17
+264	Rue de Fribourg 2-16
+265	Chemin des Carpières 9
+266	Rue Terreaux-du-Temple 8-10
+267	Boulevard des Tranchées 35
+268	E62
+269	E62
+270	Chemin de la Chevillarde 16
+271	Rue de Monthoux 39-31
+272	Chemin des Verjus 26-36
+273	Passage de la Radio
+274	Rue de la Terrassière 24-28
+275	Chemin de Beau-Soleil
+276	Tranchée Couverte de Chèvres
+277	Chemin des Mésanges 2
+278	Satigny
+279	Rue du Vieux-Moulin 3
+280	Quai du Mont-Blanc 13
+281	Rue de la Cloche
+282	Route de Chêne
+283	Avenue de France 17
+284	Chemin du Pont-du-Centenaire 114-134
+285	Boulevard Emile-Jaques-Dalcroze
+286	Route du Bout-du-Monde 10-18
+287	Rue du Valais 7-3
+288	Rue du Levant 3
+289	Avenue de Mategnin
+290	Route du Grand-Lancy
+291	E62
+292	Avenue Ernest-Pictet
+293	Rue du Jura 7-1
+294	Rue des Epinettes
+295	Rue du Vidollet 45-31
+296	Rue Pierre-Fatio 1
+297	Place du Lignon 6
+298	Route de Frontenex 60
+299	Route de Chancy
+300	Chemin de Ruth 40-86
+301	Route d'Hermance 293-287
+302	Avenue Louis-Rendu
+303	Rue Jean-Daniel-Colladon 3
+304	Route de Meyrin
+305	Route de la Capite 38-46
+306	Chemin de Grange-Falquet 15-5
+307	Rue du Dauphiné 12-18
+308	Rue Jacques-Dalphin 13-11
+309	Route de Loëx
+310	Route du Val-d'Arve
+311	Rue de Fribourg 2-16
+312	Place Simon-Goulart 2-4
+313	Avenue Henri-Dunant
+314	E62
+315	Boulevard Emile-Jaques-Dalcroze 13-11
+316	Rue Boissonnas
+317	Grottes - Saint-Gervais
+318	Rue Guye
+319	Ch. Jacques-Philibert-de-Sauvage 40-42
+320	Avenue Pictet-de-Rochemont 26-30
+321	Boulevard James-Fazy
+322	Route de Chancy
+323	Chemin de Ternier
+324	Route de la Gare-de-Satigny 31-29
+325	Rue Rothschild 40-50
+326	Rue Pécolat 1
+327	A1a
+328	Rue du Valais
+329	Route du Nant-d'Avril 67-49
+330	Rue Prévost-Martin 61-41
+331	Route de Meyrin
+332	Avenue d'Aïre
+333	Rue de Genève 75-67
+334	Avenue Wendt
+335	Pâquis-Nations
+336	Route des Fayards 60
+337	Carrefour du Bouchet 2-4
+338	Route de Meyrin
+339	Avenue de France
+340	Route des Acacias 28-22
+341	Route de Thonon
+342	Avenue du Lignon 46-60
+343	Rue Hoffmann 4-10
+344	E62
+345	Avenue de Sainte-Clotilde 18-22
+346	Rue Pierre-Fatio 9-3
+347	E62
+348	Route du Pont-de-la-Fin 12-10
+349	Route du Pont Butin
+350	Chemin de Carabot
+351	Route de Lausanne 330
+352	Rue Ancienne 32-74
+353	Place de Montbrillant 2
+354	E62
+355	Route de Vernier 137
+356	Unnamed Road
+357	Route de Rougemont 78-70
+358	Route de Sous-Moulin 39
+359	Boulevard Georges-Favon 21
+360	Unnamed Road
+361	Avenue de l'Amandolier 27-19
+362	Tunnel de Vernier
+363	Avenue de Champel 23-41
+364	Rue de l'Avenir 19-5
+365	Chemin du Fief-de-Chapitre 13-11
+366	Route du Stand-de-Veyrier
+367	Rue de Sous-Terre
+368	E62
+369	Chemin du Pont-du-Centenaire
+370	Tunnel de Confignon
+371	A1a
+372	Route de Chancy 100
+373	Avenue du Lignon
+374	Avenue Appia
+375	Place Albert-Thomas
+376	Avenue des Communes-Réunies 5-1
+377	Quai Gustave-Ador
+378	:ERROR STATUS: NOT_FOUND
+379	Avenue de Champel 51-71
+380	Place des Cinq-Continents
+381	Unnamed Road
+382	Rue de la Rôtisserie
+383	Route d'Ambilly 37-27
+384	Rue des Glacis-de-Rive 12-14
+385	Rue de la Servette 93-91
+386	Avenue du Gros-Chêne 27-25
+387	Rue des Lattes 60-62
+388	E62
+389	Route de Basselat 16
+390	Rue Caroline 40-44
+391	Rue Cingria 4-10
+392	Route de Lausanne 314-318
+393	Route de Saint-Julien 113
+394	Rue de la Servette 25-11
+395	Avenue du Mail 8-10
+396	Rue Ferrier 2-12
+397	Satigny
+398	Rue de la Fontenette 6-8
+399	Rue des Entreprises
+400	Chemin Terroux
+401	Route des Acacias 60-48
+402	Grottes - Saint-Gervais
+403	Route de Meyrin 5
+404	Rue du Mont-Blanc 7
+405	Avenue Jacob-Daniel-Maillard
+406	Route des Acacias 20
+407	Chemin Subilia
+408	Route de Chancy 137-135
+409	Avenue de Gennecy 15-1
+410	Avenue du Lignon 84-64
+411	A1a
+412	:ERROR STATUS: NOT_FOUND
+413	Pâquis-Nations
+414	Quai de Cologny
+415	Route de Vernier
+416	A1
+417	Rue François-Versonnex 5-3
+418	Route du Nant-d'Avril 11
+419	Rue de la Coulouvrenière 8-16
+420	Route de Malagnou 66
+421	Route des Ravières 3-1
+422	Rue de Genève 113-103
+423	Route d'Annecy 239-201
+424	Rue de Zurich 47-43
+425	Boulevard Emile-Jaques-Dalcroze 7-5
+426	Rue de Lyon 32-42
+427	Route de Frontenex 65-63
+428	Route de Jussy
+429	Quai de Cologny 61
+430	Rue Pestalozzi 29
+431	Route d'Aire-la-Ville 220-224
+432	Boulevard Helvétique 30-34
+433	Route de Chêne 100-102
+434	Route de l'Usine-à-Gaz 10-16
+435	Rue Saint-Léger
+436	Route de Peney-Dessus
+437	Rue des Pâquis 31-29
+438	Chemin du Rail
+439	Chemin de Sous le Clos 2-14
+440	Route du Nant-d'Avril 58-68
+441	Rue François-Diday 2
+442	Rue de Vermont
+443	Route de Saint-Julien
+444	Avenue A.-M.-Mirany 36
+445	Route de Suisse 138-150
+446	Chemin Frank-Thomas 6
+447	Rue Dancet 9-1
+448	Rue de Veyrier 22-26
+449	Quai du Général-Guisan 34
+450	Rue de Berne 50-54
+451	A1a
+452	Rue Philippe-Plantamour
+453	Unnamed Road
+454	Route de Base 68-66
+455	Route de Frontenex 70-72
+456	Chemin de l'Ecu 1
+457	Route de Vernier
+458	Route de Vernier
+459	Avenue de France
+460	Route de Mon-Idée
+461	Rue des Cordiers 2-10
+462	Unnamed Road
+463	Chemin de Champ-Dollon
+464	Rue Ferdinand-Hodler
+465	Pont de la Coulouvrenière 1
+466	Route des Jeunes
+467	Chemin de la Chevillarde 10-4
+468	Route de Saint-Julien 77-75
+469	Rue de la Cloche
+470	Rue Henri-Mussard 19-13
+471	Route de Corsier 13
+472	Rue de Saint-Victor 8
+473	Quai du Général-Guisan 36-38
+474	Rue des Alpes
+475	Route de Pierre-Grand
+476	Avenue A.-M.-Mirany
+477	E62
+478	Route de Vernier 137
+479	A1a
+480	Avenue Blanc 2-6
+481	Rue de la Muse 8-10
+482	Rue de la Pépinière
+483	Route de Veyrier 57-55
+484	Quai Gustave-Ador 82
+485	Chemin de la Roselière 6-8
+486	E62
+487	:ERROR STATUS: NOT_FOUND
+488	E62
+489	Avenue de Feuillasse
+490	Promenade de l'Europe
+491	Rue Lect
+492	Avenue d'Aïre
+493	Route de Malagnou 159
+494	Chemin de Tréchaumont
+495	Rue de Livron
+496	Chemin de la Gentille 34-38
+497	Rue de Lyon 67-61
+498	Quai de Cologny 8
+499	Route du Pont Butin 76-80
+500	Boulevard des Promenades 1
+501	Rue de Sous-Terre
+502	E62
+503	Rue du Bachet 7-3
+504	Rue de la Golette
+505	Rue du Lièvre 2-4
+506	Rue du Collège 19-13
+507	Route de Choulex 2-30
+508	Chemin des Tuileries
+509	Rue du Stand 54
+510	Avenue de Vaudagne
+511	Rue du Rhône 94
+512	Grottes - Saint-Gervais
+513	Route du Nant-d'Avril 67-49
+514	Rue Jean-François Bartholoni 2-8
+515	Avenue de Bel-Air
+516	Avenue Louis-Casaï 72-78
+517	Rue Pierre-Fatio 4
+518	Unnamed Road
+519	Rue François-Dussaud
+520	Route du Nant-d'Avril 67-49
+521	Quai Wilson 35-37
+522	Route d'Aire-la-Ville
+523	Boulevard des Promenades
+524	Rue Jean-François Bartholoni 10
+525	Avenue Krieg 44
+526	Unnamed Road
+527	:ERROR STATUS: NOT_FOUND
+528	Saint-Jean - Charmilles
+529	Rue des Asters
+530	Rue Terreaux-du-Temple 20-22
+531	Route des Acacias 18-8
+532	Route de Vernier
+533	Pont Butin
+534	Rue Dancet 12-20
+535	Rue des Bains 12-20
+536	Rue du Temple
+537	Route du Pont Butin
+538	Place du Marché 9-1
+539	Avenue de la Praille
+540	Boulevard Georges-Favon 15
+541	Rue de Livron
+542	Saint-Jean - Charmilles
+543	Boulevard Georges-Favon 35
+544	:ERROR STATUS: NOT_FOUND
+545	Avenue Tronchet 17
+546	Rue François-Versonnex 8
+547	Rue du Collège 11-1
+548	Route de Meyrin
+549	Chemin de Ruth 9
+550	Route du Bois-des-Frères 10-12
+551	Rue des Voisins 2-12
+552	Avenue de Bel-Air
+553	Route de Suisse 164-166
+554	Route de Malagnou 19
+555	Tunnel de Vernier
+556	Quai Charles-Page
+557	Chemin des Embrouchis
+558	Route de Thonon 11
+559	Rue de Fribourg 2-16
+560	Cours de Rive 18-20
+561	Rue des Barques 2-4
+562	Route de Saint-Julien
+563	Route d'Annecy 202-212
+564	Route de Meyrin
+565	Rue de Hesse 4
+566	Unnamed Road
+567	Rue Emile-Nicolet 7
+568	Avenue de Champel 51-71
+569	Rue Alcide-Jentzer 16-22
+570	E62
+571	Chemin Kermely 11-1
+572	Rue Pestalozzi 29
+573	Route de Chêne 20-26
+574	Unnamed Road
+575	Rue Hugo-De-Senger 7-1
+576	Boulevard de la Tour 8-12
+577	Unnamed Road
+578	Lancy
+579	Route de Compois 16
+580	Rue de Villereuse
+581	Rue d'Italie 5
+582	Pont de la Coulouvrenière
+583	Chemin des Embrouchis 4
+584	Route de la Plaine 19-17
+585	Rue du Parc 3-1
+586	Quai du Général-Guisan 40-42
+587	Tranchée Couverte d'Arare
+588	Rue d'Aoste 7
+589	Rue du Prieuré 20-24
+590	Route de Florissant 25-23
+591	Boulevard Georges-Favon 11
+592	Chemin de la Chevillarde
+593	Rue de la Fontenette 23-9
+594	Square de Chantepoulet
+595	Avenue de Mategnin 69-63
+596	Grottes - Saint-Gervais
+597	Rue de l'Arquebuse 12-16
+598	Rue du Vieux-Collège 4-6
+599	Voie Centrale
+600	Route de Bossey 11-3
+601	Veyrier
+602	:ERROR STATUS: NOT_FOUND
+603	Chemin Malombré 11
+604	:ERROR STATUS: NOT_FOUND
+605	Route de Chêne 76
+606	Boulevard Helvétique 18
+607	Route des Tournettes
+608	Rue du Vélodrome 2
+609	Rue de Veyrier 17-13
+610	Quai Gustave-Ador 68-78
+611	Route de Saint-Julien 71-69
+612	Avenue du Rond-Point
+613	E62
+614	Route de Saint-Julien
+615	Route de Lausanne 288-290
+616	Pont du Mont-Blanc
+617	Pont du Mont-Blanc
+618	:ERROR STATUS: NOT_FOUND
+619	Rue de Sous-Terre
+620	Chemin des Deux-Communes 31-23
+621	Route de Juvigny 90-100
+622	Route de Peney
+623	Chemin du Bac 16-18
+624	Rue de l'Encyclopédie 10-14
+625	Route des Acacias
+626	Rue Pécolat 2-10
+627	Rue des Vieux-Grenadiers 17-5
+628	Chemin des Semailles 4-8
+629	Avenue des Communes-Réunies 2
+630	Rue Docteur-Alfred-Vincent 8-12
+631	Place de Cornavin
+632	Rue Pécolat 5
+633	Rue de Berne 29-21
+634	Route d'Hermance 293-287
+635	Route de Veyrier
+636	Rue Rousseau 29-23
+637	Chemin de la Tourelle 5
+638	Avenue Henri-Dunant
+639	Route de Veyrier 57-55
+640	Rue de Villereuse 4-10
+641	Rue du Prince 11-3
+642	Route des Batailleux
+643	Route des Jeunes 6
+644	Avenue de Miremont
+645	Route de Vernier 138
+646	Route du Bout-du-Monde
+647	Route de l'Aéroport
+648	E25
+649	Rue du Grand-Pré 70-72
+650	Avenue Théodore-Weber 31-29
+651	Rue Jean-Ant.-Gautier 8-16
+652	Tranchée couverte de Saconnex-d'Arve
+653	Rue Terreaux-du-Temple 20-22
+654	Avenue Vibert
+655	Avenue Pictet-de-Rochemont 26-30
+656	Chemin de la Chênaie 30-38
+657	Avenue de la Paix 7-5
+658	Chemin des Palettes
+659	Avenue de Feuillasse
+660	Route de Frontenex 54-56
+661	Route de Saint-Julien
+662	Chemin Edouard-Sarasin 46-52
+663	Rue Daubin 14-22
+664	Place Kléberg
+665	Rue Michel-Servet 12-16
+666	Chemin du Renard 34
+667	:ERROR STATUS: NOT_FOUND
+668	Route Blanche
+669	Vernier
+670	Rue Eugène-Marziano 10-12
+671	Chemin des Hutins 6-24
+672	Rue Pierre-Fatio 6-12
+673	Route de Saint-Julien 23-7
+674	Avenue De-Luserna 15-13
+675	Rue Hoffmann 4-10
+676	Rue de la Golette 8-16
+677	Rue Jean-François Bartholoni 2-8
+678	Chemin des Ouches 2-12
+679	Rue Charles-Galland
+680	Tunnel de Vernier
+681	:ERROR STATUS: NOT_FOUND
+682	Rue Barton
+683	Rue de Genève 6-50
+684	Rue des Caroubiers 19-13
+685	Route de Malagnou 77-75
+686	Rampe du Pont-Rouge 18-24
+687	Pont du Mont-Blanc
+688	Route de Saint-Julien
+689	Rue du Bois-du-Lan 7
+690	Route de Drize 49-37
+691	Pont de l'Écu
+692	Rue Gourgas 15-11
+693	Chemin de Grange-Canal 9-7
+694	Boulevard James-Fazy 13-5
+695	Rue du Pré-Bouvier
+696	Rue du 31 Décembre 38
+697	Rue du Nant 2-16
+698	Tunnel de Vernier
+699	Boulevard James-Fazy 5
+700	Rue du Mont-Blanc 11-9
+701	Rue Terreaux-du-Temple 20-22
+702	Avenue Henri-Dunant 9-4
+703	Unnamed Road
+704	Chemin des Crêts-de-Champel 2-8
+705	Rue du Fort-Barreau
+706	Chemin du Petit-Bel-Air 2
+707	Route de Chêne 121-111
+708	Route de Saint-Julien 111-109
+709	Route de Meyrin
+710	Rue des Charmilles 20
+711	Pont du Mont-Blanc
+712	Unnamed Road
+713	Unnamed Road
+714	Rue Adhémar-Fabri 7
+715	Rue Michel-Chauvet
+716	Route des Acacias 6-2
+717	Chemin de la Mousse 27-25
+718	Rue de Neuchâtel 15-1
+719	Rue de la Servette 92-98
+720	Rue des Bossons 40
+721	Rue de Lyon 106-108
+722	Avenue de la Foretaille
+723	Route de Chancy 131
+724	Av. de la Gare-des- Eaux-Vives 9
+725	Route Blanche
+726	Route des Acacias 44-40
+727	Rue Micheli-du-Crest 2
+728	Boulevard James-Fazy
+729	Grottes - Saint-Gervais
+730	Confignon
+731	Rue de Jargonnant
+732	Rue du Bachet
+733	Avenue de Châtelaine 95-91
+734	Avenue Adrien-Jeandin
+735	Avenue des Allières
+736	Place de l'Octroi 2
+737	Avenue d'Aïre
+738	Route de Thonon
+739	Rue de Genève 68-80
+740	Avenue d'Aïre
+741	E62
+742	Rue Pierre-Fatio 6-12
+743	Avenue Tronchet 22-20
+744	:ERROR STATUS: NOT_FOUND
+745	Route de Vernier 137
+746	Voie Centrale
+747	Pont du Mont-Blanc
+748	Route de Choulex
+749	Boulevard Helvétique 24-28
+750	Rue de la Dôle 5-3
+751	Rue Jean-Simonet 2
+752	Route de la Parraille 4
+753	Rue Jacques-Grosselin 19
+754	Rond-Point de Plainpalais 7
+755	Unnamed Road
+756	Route de Meyrin
+757	Route de Jussy
+758	Boulevard James-Fazy
+759	Rue des Alpes 14-16
+760	Route de Vandœuvres
+761	Voie Centrale
+762	Rue Henri-Frédéric-Amiel 9
+763	Chemin Le-Sapay
+764	Route de Sous-Moulin 35
+765	Quai du Général-Guisan 28
+766	Rue du Village 3-1
+767	Rue Michel-Servet 12-16
+768	Route de Meyrin
+769	Rue de Bâle 23-21
+770	Route de Saint-Julien
+771	Chemin Edouard-Sarasin 18
+772	Chemin Rieu 18
+773	Parc du Château-Banquet 2-26
+774	Rue Pierre-Fatio 6-12
+775	Rue de Lyon 110
+776	Rue des Pâquis 28-50
+777	Avenue des Grandes-Communes
+778	Rue de la Fontenette
+779	Route de Jussy
+780	Route de Meyrin
+781	Chemin de Grange-Falquet
+782	E62
+783	Rue de Berne 56-60
+784	Route de Chêne 153
+785	Route d'Annecy
+786	Rue Adrien-Lachenal 17-13
+787	Pont du Mont-Blanc
+788	Route de Chancy 90-98
+789	Rue Pierre-Fatio 19-13
+790	Quai Gustave-Ador 56-60
+791	Route de Florissant 25-23
+792	Chemin des Sureaux
+793	Rue de Genève 6-50
+794	Rue de l'Est 2-10
+795	Quai Wilson 43
+796	E62
+797	Tunnel de Confignon
+798	Avenue Bois-de-la-Chapelle 65-55
+799	Champel
+800	Boulevard James-Fazy 3
+801	Route de Meyrin
+802	Chemin de la Fraidieu 16
+803	Chemin de Tivoli
+804	Place de Cornavin 12-22
+805	Boulevard James-Fazy
+806	Route de Vernier
+807	A1a
+808	Rue du 31 Décembre 67
+809	Route de la Capite 167-151
+810	Quai du Général-Guisan 40-42
+811	Rue du Vélodrome 2
+812	E62
+813	Route des Jeunes
+814	Unnamed Road
+815	Rue Caroline 27-11
+816	Quai Gustave-Ador 28-30
+817	Avenue Louis-Rendu 11
+818	Rue Hoffmann 13-11
+819	Rue Hoffmann 9-7
+820	Rue François-Dussaud 2
+821	Chemin Rieu 6-8
+822	Rue du Grand-Pré 62
+823	Clos-Belmont 8-2
+824	Rue Docteur-Alfred-Vincent 14-20
+825	Rue Ami-Lévrier 7-1
+826	Chemin de Grange-Canal 10
+827	Rue de la Prulay
+828	Rue de Chantepoulet 2-4
+829	Chemin de la Place-Verte 46
+830	Rue Charles-Cusin 3
+831	Route du Nant-d'Avril 34
+832	Boulevard des Promenades 25
+833	Unnamed Road
+834	Route de Lausanne 314-318
+835	Unnamed Road
+836	Unnamed Road
+837	Route des Jurets 2-26
+838	Chemin des Bougeries 27-17
+839	A1a
+840	Route des Romelles
+841	Rue de Carouge 65-57
+842	Route du Pont Butin
+843	Route de Vernier
+844	Route de Saint-Julien 270-278
+845	Pâquis-Nations
+846	Route de Saint-Julien
+847	Quai de Cologny
+848	Rue Rothschild 40-50
+849	Avenue de Châtelaine
+850	Rue du Rhône 102
+851	Rue Emilie-Gourd
+852	Unnamed Road
+853	Rue du Rhône 35
+854	Chemin Dottrens 22-24
+855	Rue des Bains 50-54
+856	Chemin de Grange-Canal
+857	E62
+858	Square Clair-Matin 4-2
+859	Rue de Lyon 24-30
+860	Quai du Général-Guisan 36-38
+861	Quai Gustave-Ador
+862	Unnamed Road
+863	Unnamed Road
+864	Rue de la Terrassière 24-28
+865	Chemin Edouard-Sarasin 18
+866	Rampe du Pont-Rouge
+867	Boulevard de la Tour 14
+868	Unnamed Road
+869	Quai Wilson 45
+870	Rue de Fribourg 2-16
+871	Boulevard Helvétique 14
+872	E62
+873	Route de Saint-Julien 171
+874	Chemin François-Furet
+875	Rue Ancienne 71-51
+876	Rue de Saint-Jean
+877	Quai du Général-Guisan 28
+878	Chemin Gérard-De-Ternier 4
+879	Route de Thonon 112
+880	Unnamed Road
+881	Unnamed Road
+882	Unnamed Road
+883	Route d'Aire-la-Ville 148
+884	Boulevard de Saint-Georges 16
+885	Unnamed Road
+886	Avenue Théodore-Weber 26-32
+887	Chemin Puthon
+888	Rue Jean-Louis-Hugon
+889	Rue du Rhône
+890	Quai de Cologny 1
+891	Avenue du Mail 16
+892	Rue de Berne 21
+893	Rue Philippe-Plantamour 18-26
+894	Chemin Delay 36-48
+895	Cours de Rive 10-16
+896	Avenue Louis-Casaï
+897	Rue de l'Athénée 7
+898	Avenue Tronchet 13
+899	Square de la Comédie 1
+900	Pont du Mont-Blanc
+901	Rue de Genève 101-91
+902	Avenue Henri-Dunant
+903	Route de Céligny 77-67
+904	Rue Sigismond-Thalberg
+905	Route de Jussy 77-75
+906	Rue de Lyon 110
+907	:ERROR STATUS: NOT_FOUND
+908	Route d'Ambilly 39
+909	Grottes - Saint-Gervais
+910	Rue de Vermont
+911	Route de Meyrin 5-3
+912	Route du Pont Butin 12
+913	E62
+914	Avenue Adrien-Jeandin
+915	Pont du Mont-Blanc
+916	Pont du Mont-Blanc
+917	E62
+918	A1a
+919	Avenue François-Adolphe-Grison 10-22
+920	Route du Bois-des-Frères
+921	Rue Ferdinand-Hodler
+922	A1
+923	Chemin Venel 9-7
+924	Place Louis-Simond 1
+925	Route de Veyrier
+926	Rue des Fontaines-Saintes
+927	Quai du Général-Guisan
+928	Route du Grand-Lancy 52-60
+929	Rue de la Mairie 3
+930	Avenue du Pailly 15
+931	Route des Acacias 45
+932	Chemin Malombré 5-1
+933	Rue des Savoises 15
+934	Rue de la Servette 25-11
+935	Boulevard des Promenades 1
+936	Rue de Lyon 67-61
+937	Rue Eugène-Marziano 23
+938	Rue Sigismond-Thalberg
+939	Boulevard Georges-Favon 21
+940	:ERROR STATUS: NOT_FOUND
+941	Rue de la Rôtisserie 2-4
+942	Rue de Contamines 35-27
+943	Avenue Giuseppe Motta 34-44
+944	Avenue de l'Ain
+945	:ERROR STATUS: NOT_FOUND
+946	Tunnel de Vernier
+947	Route de Saint-Julien 94-98
+948	Quai du Mont-Blanc 25-21
+949	Rue du Prieuré 6-18
+950	Route de Chancy
+951	Avenue Wendt
+952	Chemin de Sous-Caran
+953	Route d'Avully 107
+954	Route des Acacias 33
+955	Route de Chancy
+956	Route de Veyrier
+957	Saint-Jean - Charmilles
+958	1
+959	Route de La-Chapelle 37-35
+960	Boulevard Georges-Favon 35
+961	Route de Saint-Julien 71-69
+962	Rue du Rhône 45-37
+963	Quai du Général-Guisan 26
+964	Chemin des Champs-Nouveaux 4
+965	Route de Saint-Julien 94-98
+966	Route de Peney
+967	Tunnel de Vernier
+968	Route des Jeunes
+969	Pregny-Chambésy
+970	Avenue Adrien-Jeandin
+971	Quai du Mont-Blanc 25-21
+972	Route des Franchises 2
+973	Route de Loëx 151
+974	Rue de la Prairie
+975	Rue Pécolat 5
+976	Unnamed Road
+977	Chemin des Rubiettes 4-6
+978	Avenue de Châtelaine 97-95
+979	Quai du Seujet 24-34
+1006	Chemin Rey
+1024	Rue de la Tour-Maîtresse 9-7
+1025	Rue de la Dôle 5-3
+1189	Rue Terreaux-du-Temple 12
