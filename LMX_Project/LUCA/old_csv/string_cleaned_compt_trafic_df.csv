@@ -1,0 +1,136 @@
+	NOM_VOIE	TJOM	TJM	DISPONIBILITE	DATEDT	NOM_POINT_DE_MESURE	E	N
+0	Rue de Chêne-Bougeries	8359.0	8360.0	2 mois par an	2016-10-12 10:04:52	Chêne-Bougeries / Montagne	2503566.98	1116940.55
+1	Avenue de Thônex	4539.0	3961.0	2 mois par an	2016-10-12 10:04:52	Thônex / Genève	2504307.66	1116431.69
+3	Rue de Genève	5320.0	5487.0	2 mois par an	2016-10-12 10:04:52	Genève / Thônex	2504296.99	1116552.65
+5	Rue de Lausanne	6748.0	6533.0	2 mois par an	2016-10-12 10:04:51	Lausanne / Dentand	2500440.39	1119323.56
+6	Avenue Giuseppe- MOTTA	5922.0	5299.0	365 jrs/an	2016-10-12 10:04:51	"Motta / Pré-Cartelier
+r"	2499163.13	1119256.01
+8	Avenue du Mail	12398.0	12070.0	2 mois par an	2016-10-12 10:04:50	Mail / Patru	2499735.73	1117029.56
+9	Boulevard Georges- FAVON	14695.0	14100.0	2 mois par an	2016-10-12 10:04:50	Georges-Favon / Synagogue	2499783.73	1117597.27
+11	Rue des Terreaux-du-Temple	10949.0	10545.0	2 mois par an	2016-10-12 10:06:35	Terreaux-du-Temple	2499819.58	1118076.04
+12	Quai Ernest- ANSERMET	4947.0	4603.0	2 mois par an	2016-10-12 10:04:50	Ansermet / Deux-Ponts	2498932.19	1117312.1
+13	Pont des Acacias	12967.0	12113.0	365 jrs/an	2016-10-12 10:04:49	Acacias (Pont)	2499705.11	1116593.45
+15	Pont de la Fontenette	8768.0	8112.0	365 jrs/an	2016-10-12 10:04:49	Fontenette (pont)	2500250.74	1115871.71
+17	Pont  BUTIN	26989.0	24522.0	365 jrs/an	2016-10-12 10:05:22.000001	* Butin (Pont, T. 152)	2497499.59	1117690.08
+18	Quai  TURRETTINI	1718.0	1602.0	2 mois par an	2016-10-12 10:05:47	Turretini	2499884.5	1117951.84
+19	Boulevard James- FAZY	13481.0	12983.0	2 mois par an	2016-10-12 10:05:46	Fazy / Bautte	2499767.08	1118159.82
+20	Rue  VOLTAIRE	10883.0	10164.0	2 mois par an	2016-10-12 10:05:46	Voltaire / Fazy	2499717.75	1118134.88
+22		16299.0	15597.0	2 mois par an	2016-10-12 10:05:45	Servette / Malatrex	2499801.13	1118299.33
+24	Rue de Lyon	9138.0	8727.0	2 mois par an	2016-10-12 10:05:45	Lyon / Tronchin	2499218.92	1118319.44
+27	Rue de la Servette	7703.0	7594.0	365 jrs/an	2016-10-12 10:05:44	Servette / Lyon	2499684.14	1118396.1
+29	Avenue de France	7303.0	6946.0	365 jrs/an	2016-10-12 10:05:43	France / Montbrillant	2499845.81	1119692.14
+34	Pont du Mont-Blanc	34580.0	32942.0	365 jrs/an	2016-10-12 10:05:40	Mont-Blanc (pont)	2500485.86	1117906.15
+36	 Ponts de l' Ile	2561.0	2286.0	365 jrs/an	2016-10-12 10:05:09	Île	2499979.51	1117956.66
+38	Pont de la Coulouvrenière	12683.0	12364.0	365 jrs/an	2016-10-12 10:05:08	"Coulouvrenière (pont)
+"	2499764.12	1117830.71
+59	Avenue de la Paix	2849.0	2568.0	2 mois par an	2016-10-12 10:06:42	Paix / Nations Est	2499818.6	1119870.13
+63	Route de Veyrier	6621.0	6015.0	2 mois par an	2016-10-12 10:06:40.000001	Veyrier / Pont Val-d'Arve	2500698.21	1115521.17
+67	Route du Val-d'Arve	12875.0	11643.0	2 mois par an	2016-10-12 10:06:39	Val-d'Arve / Veyrier	2500665.47	1115391.66
+163	Route de Saint-Julien	14582.0	13495.0	365 jrs/an	2016-10-12 10:04:55	Saint-Julien / Chapelle	2498980.46	1114569.58
+165	Rue de Chantepoulet	16589.0	16031.0	2 mois par an	2016-10-12 10:05:42	Chantepoulet	2500036.17	1118246.85
+166	Quai du Mont-Blanc	16097.0	15385.0	365 jrs/an	2016-10-12 10:05:42	Mont-Blanc (Quai) / Alpes	2500494.78	1118247.76
+170	Route de la Galaise	10563.0	8149.0	2 mois par an	2016-10-12 10:04:54	Galaise / Saint-Julien	2497100.23	1113378.64
+171	Chemin des Mattines	3820.0	3154.0	2 mois par an	2016-10-12 10:04:54	Mattines / Saint-Julien	2496534.69	1112911.95
+173	Route de Certoux	1807.0	1580.0	2 mois par an	2016-10-12 10:04:53	Certoux / Saint-Julien	2496402.99	1112748.0
+174	Route de Malagnou	16358.0	15308.0	2 mois par an	2016-10-12 10:04:53	Malagnou / Vallon	2502946.65	1116440.13
+177	Rue  HOFFMANN	9278.0	8734.0	2 mois par an	2016-10-12 10:37:14.000001	Hoffmann / Chabrey	2499036.94	1119018.43
+178	Route de Ferney	12772.0	11746.0	365 jrs/an	2016-10-12 10:37:13	Ferney / Sarasin	2498524.78	1120997.69
+180	Route de Vernier	23533.0	21459.0	2 mois par an	2016-10-12 10:37:12	Vernier / Sauvage	2496976.95	1118867.68
+182	Pont de Capely	10087.0	9622.0	2 mois par an	2016-10-12 10:37:10	Ferney / pont A1	2498636.71	1122109.95
+184	Chemin du Bois-Brûlé	3107.0	2848.0	2 mois par an	2016-10-12 10:37:08	Bois-Brûlé / Ferney	2498629.49	1122180.19
+188	Quai  WILSON	16876.0	15954.0	2 mois par an	2016-10-12 10:37:04	Wilson / Gautier	2500716.21	1118916.02
+190	Route des Jeunes	6908.0	6254.0	2 mois par an	2016-10-12 10:37:03	Jeunes / Praille	2498848.34	1115849.44
+191	Route du Grand-Lancy	9130.0	8535.0	2 mois par an	2016-10-12 10:37:02	Grand-Lancy / Lance	2498289.1	1115539.66
+193	Avenue Eugène- LANCE	1850.0	1554.0	2 mois par an	2016-10-12 10:37:00	Lance / Lancy	2498328.45	1115518.79
+197	Route du Pont-BUTIN	16646.0	15652.0	2 mois par an	2016-10-12 10:36:57	Pont-Butin / Grand-Lancy	2498206.92	1115529.29
+198	Rue François- DUSSAUD	9051.0	8082.0	365 jrs/an	2016-10-12 10:36:56	Dussaud / Gravière	2498885.7	1116921.2
+201	Route des Batailleux	9026.0	8080.0	2 mois par an	2016-10-12 10:05:16	Ferney87	2498490.22	1121913.06
+204	  N 1	7802.0	7175.0	2 mois par an	2016-10-12 10:41:55	Ferney85	2498695.29	1122060.19
+205	Rampe de Cologny	3190.0	2859.0	2 mois par an	2016-10-12 10:36:51	Cologny / Traînant	2502395.48	1118560.46
+206	Place de Traînant	3684.0	3439.0	2 mois par an	2016-10-12 10:36:50.000001	Cologny / Traînant	2502332.83	1118588.8
+207	Quai Gustave- ADOR	18238.0	16959.0	2 mois par an	2016-10-12 10:36:50.000001	Gustave-Ador / Traînant	2502284.71	1118596.21
+234	Route de l' Etraz	2697.0	2361.0	3 semaines/an	2016-10-12 10:38:22		2500265.84	1126456.62
+235	Route de Suisse	10149.0	9656.0	3 semaines/an	2016-10-12 10:38:21	Suisse (Route)	2502023.36	1127894.32
+237	Route de Sauverny	2403.0	2165.0	3 semaines/an	2016-10-12 10:38:19	Douane de Sauverny (Route de Sauverny)	2498440.01	1129768.24
+239	Route de Bois-Chatton	2595.0	2199.0	1 fois tous les 5 ans	2016-10-12 10:38:17	Douane de Bossy (route de Bois-Chatton)	2497212.93	1126963.44
+246	Route François- PEYROT	8540.0	7924.0	2 mois par an	2016-10-12 10:41:52	Vorge65	2497800.88	1121035.52
+256	  N 1a	10270.0	9607.0	365 jrs/an	2016-10-12 10:38:05	Genève-Lac	2499971.25	1123080.35
+260	Pont de Carouge	4381.0	3997.0	365 jrs/an	2016-10-12 10:06:35	Carouge (Pont)	2499889.27	1116003.89
+261	  Voie-Centrale	4953.0	4709.0	365 jrs/an	2016-10-12 10:06:34	Jeunes / Quidort	2498835.31	1116704.87
+263	Rampe  QUIDORT	4555.0	4069.0	2 mois par an	2016-10-12 10:06:33	Quidort / Jeunes	2498786.07	1116767.18
+266	Route de Chancy	5937.0	5529.0	365 jrs/an	2016-10-12 10:06:32.000001	Chancy / Péniches	2498814.51	1117221.08
+270	Avenue de l' Amandolier	4595.0	4319.0	2 mois par an	2016-10-12 10:06:30	Amandolier / Chêne	2501875.03	1117236.92
+272	Route de Chêne	7334.0	7307.0	365 jrs/an	2016-10-12 10:06:29	Chêne / Amandolier	2501777.02	1117312.97
+273	Route de Frontenex	6873.0	6538.0	365 jrs/an	2016-10-12 10:06:29	Frontenex / XXXI-Décembre	2501471.01	1117497.62
+274	Tunnel de Ferney	11767.0	11109.0	365 jrs/an	2016-10-12 10:06:28	Ferney (Tunnel)	2498493.37	1122515.75
+275	Route de Lausanne	13050.0	11994.0	365 jrs/an	2016-10-12 10:06:28	* Lausanne (Route)	2501061.95	1123470.9
+277	Route de Thonon	13008.0	12110.0	non	2016-10-12 10:05:11	Thonon / Pêcheurs	2504025.65	1121248.29
+279	Route  Blanche	9251.0	8471.0	365 jrs/an	2016-10-12 10:06:27	* Douane de Thônex Vallard (Route Blanche, T. 154)	2504241.16	1116155.45
+280	Rue Adrien- WYSS	665.0	543.0	2 mois par an	2016-10-12 10:36:47	Royer / Acacias	2499347.49	1116356.9
+281	Avenue Henri- DUNANT	7485.0	7327.0	2 mois par an	2016-10-12 10:36:46	Dunant/Vignier	2499906.77	1116921.68
+283	Route des Acacias	8676.0	8401.0	365 jrs/an	2016-10-12 10:07:00	Acacias / Dussaud	2499403.51	1116364.18
+288	Avenue Louis- AUBERT	10079.0	9062.0	365 jrs/an	2016-10-12 10:06:57	Louis-Aubert / Pittard	2501479.13	1116309.96
+290	Route de Florissant	6035.0	5478.0	2 mois par an	2016-10-12 10:06:57	Florissant / Aubert	2501560.22	1116479.64
+292	Quai de la Poste	4128.0	3791.0	2 mois par an	2016-10-12 10:06:56	Poste / Hollande	2499928.74	1117798.18
+293	Route de Verbois	1100.0	1056.0	3 semaines/an	2016-10-12 10:38:26	Verbois (Pont)	2491137.25	1116693.98
+295	Route de Meyrin	13547.0	12589.0	3 semaines/an	2016-10-12 10:05:18	Douane de Meyrin (Route de Meyrin)	2492913.43	1121329.68
+429	Avenue  WENDT	6555.0	6240.0	2 mois par an	2016-10-12 10:06:46	Wendt / Bourgogne	2498773.09	1118431.56
+431	Avenue Louis- CASAÏ	13360.0	12493.0	2 mois par an	2016-10-12 10:06:45	Casaï / Pailly	2497733.04	1119660.05
+433	Route du Bois-des-Frères	3891.0	3729.0	2 mois par an	2016-10-12 10:06:45	Bois-des-Frères / Sellières	2496874.32	1117559.26
+437	Route de Jussy	10390.0	9587.0	3 semaines/an	2016-10-12 10:06:50	Jussy / Foron	2505236.92	1117017.54
+442	Rue des Alpes	10975.0	10487.0	2 mois par an	2016-10-12 10:05:17	Alpes / Pâquis	2500386.61	1118268.74
+443	Rue Gabrielle- PERRET-GENTIL	4654.0	4151.0	365 jrs/an	2016-10-12 10:06:54	Perret-Gentil	2500370.44	1116641.39
+445	Pont du Val-d'Arve	9807.0	8926.0	365 jrs/an	2016-10-12 10:06:53	Val-d'Arve (Pont)	2500768.97	1115484.34
+446	Rue  LOMBARD	6996.0	6116.0	2 mois par an	2016-10-12 10:06:53	Lombard / Sautter	2500446.25	1116737.1
+458	Route de Colovrex	3823.0	3582.0	365 jrs/an	2016-10-12 10:37:16	Colovrex / Ferney	2498577.48	1121084.88
+465	Tunnel de Confignon	39581.0	36079.0	365 jrs/an	2016-10-12 10:05:23	RNConfignon1502	2495873.44	1114381.88
+470	Tunnel de Chèvres	40574.0	37261.0	365 jrs/an	2016-10-12 10:05:21	Aigues-Vertes (Pont)	2494939.09	1117426.39
+480	Avenue  PICTET-De-ROCHEMONT	15661.0	14953.0	2 mois par an	2016-10-12 10:06:25	Pictet-de-Rochemeont / Mairie	2501080.21	1117589.44
+482	Pont de Chancy	1733.0	1570.0	3 semaines/an	2016-10-12 10:06:25	Chancy (Pont)	2486107.09	1111380.59
+484	Route de Sézegnin	662.0	581.0	1 fois tous les 5 ans	2016-10-12 10:06:24.000001	Douane de Sézegnin (route de Sézegnin)	2489593.86	1111242.63
+486	Route de Rougemont	3193.0	2627.0	3 semaines/an	2016-10-12 10:06:23	Douane de Soral II (Route de Rougemont)	2491618.69	1110445.7
+488	Route des Mangons	1477.0	1311.0	1 fois tous les 5 ans	2016-10-12 10:06:22	Douane de Soral I (route des Mangons)	2492470.23	1111082.34
+490	Route de Thérens	2190.0	1851.0	1 fois tous les 5 ans	2016-10-12 10:06:21	Douane de Certoux (route de Thérens)	2494710.91	1112188.86
+492	Route de Pierre-Grand	2415.0	2091.0	1 fois tous les 5 ans	2016-10-12 10:38:43.000001	Douane de Pierre-Grand (route de Pierre-Grand)	2500416.96	1111911.67
+494	Route de Bossey	2915.0	2552.0	3 semaines/an	2016-10-12 10:38:41	Douane de Bossey (Route de Bossey)	2501315.0	1112287.71
+496	Route de Cornière	962.0	912.0	1 fois tous les 5 ans	2016-10-12 10:05:19	Douane de Cornière (route de Cornière)	2507436.22	1117739.59
+498	Route de Cara	1978.0	1811.0	1 fois tous les 5 ans	2016-10-12 10:38:40	Douane de Cara (route de Cara)	2508276.22	1117935.5
+500	Route de Juvigny	1029.0	916.0	1 fois tous les 5 ans	2016-10-12 10:38:38	Douane de Renfile (route de Juvigny)	2511434.06	1119874.86
+502	Route de Monniaz	2712.0	2275.0	1 fois tous les 5 ans	2016-10-12 10:38:36	Douane de Monniaz (route de Monniaz)	2512784.34	1121740.31
+504	Route de Gy	1090.0	946.0	1 fois tous les 5 ans	2016-10-12 10:38:34	Douane de Gy (route de Gy)	2509151.22	1123003.8
+506	Route de Covéry	1416.0	1180.0	1 fois tous les 5 ans	2016-10-12 10:38:33	Douane de Veigy-Covery (route de Covéry)	2508301.26	1124020.64
+508	Route de Veigy	1052.0	930.0	1 fois tous les 5 ans	2016-10-12 10:38:31	Douane de Veigy-Corsier (route de Veigy)	2508241.58	1124098.59
+510	Pont de Peney	6851.0	5620.0	3 semaines/an	2016-10-12 10:38:30	Peney (Pont)	2492384.22	1116870.77
+512	Route du Mandement	1132.0	944.0	1 fois tous les 5 ans	2016-10-12 10:38:28	Douane de Dardagny (Mandement)	2488345.97	1117104.44
+524	Quai du Général- GUISAN	19832.0	19117.0	365 jrs/an	2016-10-12 10:05:04	Versonnex / Fatio	2500819.23	1117680.49
+529	Avenue Louis- PICTET	8503.0	7700.0	2 mois par an	2016-10-12 10:05:02	Louis-Pictet / ouest Nant-d'Avril	2495612.34	1119575.92
+530	Route du Nant-d'Avril	17006.0	14749.0	2 mois par an	2016-10-12 10:05:02	Nant-Avril / est Pictet	2495691.26	1119606.97
+533	Route des Franchises	5932.0	5586.0	2 mois par an	2016-10-12 10:05:01	Franchises / ECG Dunant	2498160.09	1118870.59
+536	Route de Pré-Bois	6555.0	6012.0	365 jrs/an	2016-10-12 10:05:00	Pré-Bois / Coquelicots	2496466.35	1119730.68
+540	Tunnel des Communes-Réunies	7891.0	7283.0	2 mois par an	2016-10-12 10:04:59	Communes-Réunies / Trémie	2498366.58	1114756.82
+542	Avenue des Communes-Réunies	5917.0	5465.0	2 mois par an	2016-10-12 10:04:58.000001	Communes-Réunies / Palettes	2498379.31	1114721.34
+546	Chemin des Palettes	7004.0	6362.0	2 mois par an	2016-10-12 10:04:57	Palettes / Communes-Réunies	2498340.85	1114668.23
+551	Route du Camp	4127.0	3766.0	2 mois par an	2016-10-12 10:04:56	Camp / Saint-Julien	2498486.83	1114112.17
+553	Pont de La-Plaine	1899.0	1716.0	3 semaines/an	2016-10-12 10:38:16.000001	La-Plaine (Pont)	2488964.8	1114890.88
+555	Route de Challex	1003.0	875.0	1 fois tous les 5 ans	2016-10-12 10:06:05.000001	Douane de La Plaine (route de Challex)	2488381.35	1115050.42
+557	Route de Valleiry	1761.0	1541.0	1 fois tous les 5 ans	2016-10-12 10:06:04	Douane de Chancy II (route Valleiry)	2486661.07	1110906.85
+564	Route de Base	6415.0	5399.0	3 semaines/an	2016-10-12 10:06:00	Base (Route)	2496021.46	1113285.72
+570	Chemin de la Seymaz	4064.0	3596.0	3 semaines/an	2016-10-12 10:05:57.000001	Seymaz (Chemin)	2504684.02	1118403.79
+572	Route de Vandoeuvres	5906.0	5207.0	3 semaines/an	2016-10-12 10:05:56	Vandoeuvres n°95	2504369.78	1119373.34
+574	Route de La-Capite	4911.0	4468.0	3 semaines/an	2016-10-12 10:05:55	La-Capite n°110	2504177.99	1120434.04
+580	Chemin de Pinchat	3581.0	3212.0	3 semaines/an	2016-10-12 10:05:53	Pinchat n°18	2500106.27	1114880.2
+582	Pont de Sierne	12660.0	11446.0	3 semaines/an	2016-10-12 10:05:52	Sierne (Pont)	2503020.58	1114990.21
+584	Route des Fayards	4898.0	4536.0	3 semaines/an	2016-10-12 10:05:50	Douane de Vireloup (Route de Fayards)	2498337.48	1124141.79
+586	Avenue A.-F.- DUBOIS	7704.0	7207.0	3 semaines/an	2016-10-12 10:05:48	Douane de Mategnin (Avenue A.-F.-Dubois)	2495822.38	1121937.93
+593	Rue de Saint-Jean	15183.0	14552.0	non	2016-10-12 10:38:03	Saint-Jean / Délices	2499158.74	1117937.75
+595	Rue des Charmilles	6251.0	5879.0	365 jrs/an	2016-10-12 10:37:54	Charmilles / Délices	2499151.76	1118005.59
+605	Route de Soral	3399.0	3118.0	2 mois par an	2016-10-12 10:37:44	Soral / Chancy	2495751.58	1114964.82
+607	Route d' Hermance	2651.0	2357.0	3 semaines/an	2016-10-12 10:37:43		2508230.26	1128620.33
+611	Route de Mon-Idée	5450.0	4908.0	3 semaines/an	2016-10-12 10:37:39	Douane de Mon-Idée (Route de Mon-Idée)	2506175.14	1117628.18
+613	Route d' Ambilly	4061.0	3802.0	3 semaines/an	2016-10-12 10:37:38	Douane de Pierre-à-Bochet (Route d'Ambilly)	2506071.22	1117127.93
+615	Route de Sous-Moulin	3784.0	3573.0	3 semaines/an	2016-10-12 10:37:36	Douane de Fossard (Route de Sous-Moulin)	2503917.08	1115467.21
+617	Route du Pas-de-l'Echelle	8209.0	7592.0	3 semaines/an	2016-10-12 10:37:34	Douane de Veyrier (Route du Pas-de-l'Echelle)	2503427.64	1113556.65
+619	Route du Pont-de-la-Fin	5059.0	4707.0	3 semaines/an	2016-10-12 10:37:32	Douane de Croix-de-Rozon (Route du Pont-de-la-Fin)	2499475.77	1111116.84
+621	Route d' Annecy	3449.0	2962.0	3 semaines/an	2016-10-12 10:37:31	Douane de Landecy (Route d'Annecy)	2499060.19	1110859.93
+623	Route de Bellegarde	3917.0	3653.0	3 semaines/an	2016-10-12 10:37:29	Chancy, au nord de Chancy	2487136.68	1112342.42
+627	Viaduc de l' Ecu	8758.0	7983.0	3 semaines/an	2016-10-12 10:37:24	Ecu (Viaduc)	2497440.86	1118678.37
