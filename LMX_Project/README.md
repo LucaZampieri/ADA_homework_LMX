@@ -1,13 +1,12 @@
-# Title : Stay Safe
+# Title : Stay Safe in Geneva
 
 # Abstract
 
-We would like to tell a story about road safety in the area of Geneva. As students connected to people that had accidents we would like to have a better understanding of how those tragedies can happen.
+This project will investigate the Geneva accidents from 2010 to 2016. The main goal is to draw as many insights as possible in order to use this information to reduce and avoid future accidents in this region. Not just having a global overview of the ensemble of accidents but elaborate a more detailed analysis depending the time, seasonality, weather, road conditions, location, ect. In this way, more localisated prevention measures could be effectuated. 
 
-For this we will use data from _Swiss open data_, in particular the one from _SITG_ about transportation.
 
 # Research questions
-A list of research questions you would like to address during the project: 
+The following research questions will be answered:
 
 * Which are the type vehicles with more accident risk in Geneva?
 * Which are the main causes of accidents?
@@ -29,13 +28,19 @@ and can be found by searching for their name (hereby in noted in bold characters
 
 From _Swiss open data_ site, the datasets selected are the following:
 * **ACCIDENTS DE LA CIRCULATION (DEPUIS 2010)**: **main dataset**         
-  Dateset with information about the accidents with gravity, geolocalisation, and kind of involved person and vehicle, meteo, state of the road, kind of accident, and cause. 
+  Dateset with information about the accidents with gravity, geolocalisation, and kind of involved person and vehicle, meteo, state of the road, kind of accident, and cause.
+  - Size: 6.54 MB
+  - Number of datapoints: 19'231
+  - Number of features: 35
+  
   
 * **COMPTAGE DU TRAFIC ROUTIER**:       
   Dataset with information about trafic in given roads. We are interested in name of roads and averaged trafic data that can complement our main dataset
 
+
 * **GRAPHE DE LA MOBILITE - GRAPHE ROUTIER**:         
   Complementary information about the kind of road. There are attributes of the road like lenghts, if it is unique sens or not, classification, number of lanes, restrictions about the weight (ect) associated to a road name
+
 
 eventually: 
 * **GRAPHE DE LA MOBILITE - CARREFOURS**:        
@@ -46,7 +51,7 @@ All the dataset are in .csv format and are accompagned with a good documentation
 A way to enrich the main dataset is to cross information with trafic density data, important points in the city, corossing points, etc.
 
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up until project milestone 3
 Add here a sketch of your planning for the next project milestone.
 
 Planning:
