@@ -2,7 +2,7 @@
 
 # Abstract
 
-This project will investigate the Geneva accidents from 2010 to 2016. The main goal is to draw as many insights as possible in order to use this information to reduce and avoid future accidents in this region. Not just having a global overview of the ensemble of accidents but elaborate a more detailed analysis depending the time, seasonality, weather, road conditions, location, ect. In this way, more localisated prevention measures could be effectuated by predicting the type of accident in the different regions of Geneva.
+In this project, it will investigated the Geneva accidents from 2010 to 2016. The main goal is to draw as many insights as possible in order to use this information to reduce and avoid future accidents in this region. Not just having a global overview of the ensemble of accidents but elaborate a more detailed analysis depending the time, seasonality, weather, road conditions, location, ect. In this way, more localisated prevention measures could be effectuated by predicting the type of accident in the different regions of Geneva.
 
 
 # Research questions
