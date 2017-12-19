@@ -2,7 +2,7 @@
 
 # Abstract
 
-In this project, it will investigated the Geneva accidents from 2010 to 2016. The main goal is to draw as many insights as possible in order to use this information to reduce and avoid future accidents in this region. Not just having a global overview of the ensemble of accidents but elaborate a more detailed analysis depending the time, seasonality, weather, road conditions, location, ect. In this way, more localisated prevention measures could be effectuated by predicting the type of accident in the different regions of Geneva.
+In this project, it will investigated the Geneva accidents from 2010 to 2016. The main goal is to draw as many insights as possible in order to use this information to reduce and avoid future accidents in this region. Not just having a global overview of the ensemble of accidents but elaborate a more detailed analysis depending the time, seasonality, weather, road conditions, location, etc. In this way, more localisated prevention measures could be effectuated by predicting the type of accident in the different regions of Geneva.
 
 
 # Research questions
@@ -16,7 +16,6 @@ The following research questions will be answered:
 * Does the day of the week influences on the risk to have an accident?
 * Where are the regions or routes with more accidents in Geneva?
 * Is the state of the route is correlated with the risk to have an accident?
-* Can we predict the safety of a new installation (e.g. round-abouts), based e.g. on neiboorhood and trafic zone?
 * Given two/three possible routes, can we select the safest?
 
 # Dataset
@@ -104,13 +103,6 @@ A way to enrich the main dataset is to cross information with trafic density dat
 
 ### Week 7 (14th - 29th December)
 1. End the site 
-
-
-
-# Questions for TAa
-* Is there any preprocessing technique as PCA that works well with categorical data?
-* What classifiers do you recommend us to work with categorical data?
-* We have troubles to visualize interactive maps (different layers) on nbviewer. Do you have any recommendation?
 
 
 # Note about the rights: 
