@@ -87,8 +87,7 @@ A way to enrich the main dataset is to cross information with trafic density dat
     3.3 Define Road risk
 3. Start notebook to create the group accident predictor depending certain conditions 
  
-
-# Planning for milestone 3:
+ 
 ### Week 5 (29th November - 6 December)
 1. Go deeper on the exploratory analysis to find out interseting insights. Do more feature engineering.
 2. Create a unique interactive map with more filters and conditions (A user-friendly interactive map to identify main insights)
